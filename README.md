@@ -1,8 +1,9 @@
 # DalekJS/AngularJS Page/Component Object System
 
-Core system is are teh following files:
+Core system is are this following files:
 
 - dalek/lib/client-scripts.js
+- dalek/lib/type-helper.js
 - dalek/lib/objects/base-component.js
 - dalek/lib/objects/base-page-object.js
 
