@@ -3,8 +3,7 @@
     "private": true,
     "devDependencies": {
         "lodash": "2.4.1",
-        "selfish": "0.3.2",
-        "string-format-js": "0.1.1"
+        "selfish": "0.3.2"
     },
     "engines": {
         "node": ">=0.10.4"
