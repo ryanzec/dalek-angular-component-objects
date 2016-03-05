@@ -1,3 +1,5 @@
+**Since I no longer use either DalekJS or AngularJS, I am no longer maintaining this project.  I recommend using ReactJS as a front library (https://github.com/facebook/react) and WebdriverIO (https://github.com/webdriverio/webdriverio/) as a browser runner for UI testing.**
+
 # DalekJS/AngularJS Page/Component Object System
 
 Core system is are this following files:
